@@ -15,7 +15,7 @@ public class App {
 		animals.add("cat");
 		animals.add("dog");
 		animals.add("dog");
-		animals.forEach (System.out::println);
+		animals.forEach (System.out::println); 
 		
 	}
 }
